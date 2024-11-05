@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Hide scrollbar while keeping content scrollable */
+.category-button-group {
+  overflow: auto;
+  -ms-overflow-style: none; /* For Internet Explorer and Edge */
+  scrollbar-width: none; /* For Firefox */
+}
+
+.category-button-group::-webkit-scrollbar {
+  display: none; /* For Chrome, Safari, and Edge */
+}
