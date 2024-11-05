@@ -9,7 +9,7 @@ const Header = () => {
     <header className="mt-5">
       <Container className="">
         <div className="flex justify-between align-center">
-          <Link to={"/"} className="font-bold text-3xl">
+          <Link to={"/"} className="font-bold text-4xl">
             Online Shop
           </Link>
           <Link
