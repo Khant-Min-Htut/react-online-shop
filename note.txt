@@ -1,0 +1,2 @@
+need to add home page with hero section!!
+and need to add authentication function!!
